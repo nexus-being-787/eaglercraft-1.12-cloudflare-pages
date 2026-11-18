@@ -8,7 +8,6 @@ Private & Optimized Minecraft 1.12.2 Web Client edition designed for fast browse
 - **Cloudflare Pages Ready**: Includes `_headers` for optimized caching of `assets.epk` and `classes.js`.
 - **Standalone Offline Edition**: Includes `1.12.html` (all-in-one single HTML file playable locally or hosted anywhere).
 - **Custom Shaders & Resource Packs**:
-  - `Mounitha_Lakshmi_HD_Lush.zip`
   - `Ultra_64x_DarkGUI_Pack.zip`
   - `Crystal_PvP_FPS_Boost.zip`
   - `Golden_Sunset_Shader.zip`
